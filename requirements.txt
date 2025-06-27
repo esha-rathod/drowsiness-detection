@@ -1,0 +1,7 @@
+numpy
+opencv-python
+dlib
+imutils
+scipy
+matplotlib
+simpleaudio
